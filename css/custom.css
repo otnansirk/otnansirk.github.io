@@ -8,4 +8,21 @@
 .text-primary {
   color: #7b310a !important;
 }
+.wt-md {
+	width : 250px
+}
+.portfolio-modal-title, .text-secondary {
+	font-size: 10px
+}
+.reog-button {
+    background: #fff;
+    padding: 7px;
+    border-radius: 5px;
+}
+.reog-button:hover {
+    background: transparent;
+    border: 2px solid #fff;
+    padding: 7px;
+    border-radius: 5px;
+}
 
