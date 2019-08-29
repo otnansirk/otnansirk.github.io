@@ -167,7 +167,7 @@ a {
 }
 
 a:hover {
-  color: #117964;
+  color: #fff;
   text-decoration: underline;
 }
 
@@ -10598,9 +10598,9 @@ a.text-dark:hover, a.text-dark:focus {
   width: 100%;
   max-width: 7rem;
   height: 0.25rem;
-  background-color: #ffffff;
+  background-color: #7b310a;
   border-radius: 1rem;
-  border-color: #ffffff !important;
+  border-color: #7b310a !important;
 }
 
 .divider-custom .divider-custom-line:first-child {
@@ -10612,7 +10612,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .divider-custom .divider-custom-icon {
-  color: #ffffff !important;
+  color: #7b310a !important;
   font-size: 2rem;
 }
 
@@ -10780,9 +10780,9 @@ a.text-dark:hover, a.text-dark:focus {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background: rgb(247, 61, 55, 0.9);  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ff6a00, #ff6a00);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ff6a00, #ff6a00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: rgb(255, 255, 255, 0.9);  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffffff, #ffffff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
